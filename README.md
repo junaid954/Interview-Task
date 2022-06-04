@@ -28,3 +28,9 @@ Mission Critical
 
 Sports Sector
 ![image](https://user-images.githubusercontent.com/61817305/171988967-afacab14-83c8-42cc-a343-c2fbceb3f6eb.png)
+
+
+
+
+VARIATION 
+![image](https://user-images.githubusercontent.com/61817305/171989061-2ae1df09-2b76-4753-a3c7-1ddcfe4c6e97.png)
