@@ -5,7 +5,7 @@ Dashboard Image 1 [HOME PAGE ]
 ![image](https://user-images.githubusercontent.com/61817305/171988796-e7e381f1-3a65-4b1a-b3c2-d07813831066.png)
 
 # Healthcara Sector
-### When we hover on the Healthcare Sector on the Home Page we get the below report which shows the records of only the Healthcare sector
+### When we hover and click on the Healthcare Sector on the Home Page we get the below report which shows the records of only the Healthcare sector
 
 ![image](https://user-images.githubusercontent.com/61817305/171988847-32254d9e-9cae-443b-be4b-a016b1357fac.png)
 
